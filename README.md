@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
