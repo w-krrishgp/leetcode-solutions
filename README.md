@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0169-majority-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/w-krrishgp/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/w-krrishgp/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/w-krrishgp/leetcode-solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/w-krrishgp/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
