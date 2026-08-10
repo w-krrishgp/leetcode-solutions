@@ -9,7 +9,7 @@ public:
 
         for (int i = 0; i < n; i++) {
 
-            // Skip duplicate i
+            
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
@@ -32,7 +32,7 @@ public:
                     j++;
                     k--;
 
-                    // Skip duplicates
+                    
                     while (j < k && nums[j] == nums[j - 1])
                         j++;
 
